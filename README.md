@@ -2,3 +2,5 @@
 Dataset : SF Salaries
 
 Extra : Polynomial Regression
+
+=> Conclusion : Not too different between Poly & Linear Regression on SF Salaries Dataset
